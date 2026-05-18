@@ -2,7 +2,17 @@
 
 View live at : https://pebloai.vercel.app/
 
+
+<img width="934" height="512" alt="Screenshot 2026-05-17 150937" src="https://github.com/user-attachments/assets/fed193c4-2c93-46a4-88ed-327953130b57" />
+
 A full-stack, collaborative AI notes workspace built for the Peblo Developer Challenge. This application features a premium, responsive **Burgundy and Black** custom theme, rich markdown support, and an intelligent AI assistant.
+
+<img width="627" height="469" alt="Screenshot 2026-05-17 151016" src="https://github.com/user-attachments/assets/b90703a7-9873-40a8-a46d-a1ecd33e213b" />
+
+<img width="956" height="492" alt="Screenshot 2026-05-17 151112" src="https://github.com/user-attachments/assets/367f0ae4-df7b-41e2-bef9-c1b57d14e882" />
+
+<img width="909" height="514" alt="Screenshot 2026-05-17 151219" src="https://github.com/user-attachments/assets/82e98ace-fe3c-471e-9186-25246a42a5d5" />
+
 
 ---
 
