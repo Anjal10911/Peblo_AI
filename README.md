@@ -1,5 +1,7 @@
 # Peblo AI Notes Workspace
 
+View live at : https://pebloai.vercel.app/
+
 A full-stack, collaborative AI notes workspace built for the Peblo Developer Challenge. This application features a premium, responsive **Burgundy and Black** custom theme, rich markdown support, and an intelligent AI assistant.
 
 ---
