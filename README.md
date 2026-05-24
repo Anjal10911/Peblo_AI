@@ -1,7 +1,5 @@
 # Peblo AI Notes Workspace
 
-View live at : https://pebloai.vercel.app/
-
 
 <img width="934" height="512" alt="Screenshot 2026-05-17 150937" src="https://github.com/user-attachments/assets/fed193c4-2c93-46a4-88ed-327953130b57" />
 
